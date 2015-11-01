@@ -1,0 +1,21 @@
+{
+  "name": "screen-scraping",
+  "version": "1.0.0",
+  "description": "Nodejs ile screen scraping",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "screen",
+    "scrapping"
+  ],
+  "author": "Arif Cakiroglu <cakirogluarif@gmail.com> (http://www.arifcakiroglu.com)",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.65.0"
+  }
+}
